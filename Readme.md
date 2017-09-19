@@ -8,6 +8,6 @@ Blog Link - http://smwiki2016.wikidot.com/wiki:3d-game-development-using-unity
 
 Screenshots running on Android Lollipop :
 
-<img src="Img/screen1.jpg" width="200"> 
+<img src="Img/Screen1.png" width="200"> 
 
-<img src="Img/screen2.jpg" width="200"> 
+<img src="Img/Screen2.png" width="200"> 
